@@ -1,11 +1,15 @@
 body {
-
+    font-family : Century Gothic;
     color : #190061;
 }
+
 form 
 {
     text-align : right;
 }
-p {
+
+p 
+{
     line-height: 1.5;
 }
+
