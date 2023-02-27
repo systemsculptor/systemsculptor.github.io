@@ -24,3 +24,11 @@ p
 button:hover {
     color: purple;
 }
+
+p { 
+    
+li {
+    border-width = 10px;
+    border-color = red;
+    border-style = dashed;
+    }
