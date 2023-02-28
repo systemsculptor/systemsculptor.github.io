@@ -28,7 +28,7 @@ button:hover {
 p { 
     
 li {
-    border-width = 10px;
+    border-width = medium;
     border-color = red;
     border-style = dashed;
     }
